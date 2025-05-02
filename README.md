@@ -19,7 +19,7 @@ Before Usage, make sure you have XUI-Subscription-Template installed.
 ## Usage
 
 ```bash
-sudo git clone https://github.com/proxystore11/ui-templates-prx11.git /opt/DVHOST/views/templates/prx11/
+sudo git clone https://github.com/mohamadpython/ui-templates-prx11.git /opt/DVHOST/views/templates/prx11/
 sudo sed -i 's/^TEMPLATE_NAME=.*/TEMPLATE_NAME=prx11/' /opt/DVHOST/dvhost.config
 ```
 
@@ -56,7 +56,7 @@ systemctl status DVHOST_TEMPLATE
 ابتدا فایل رو به سرور بفرستید. با دستور زیر میتونید این کارو بکنید:
 
 ```bash
-sudo git clone https://github.com/proxystore11/ui-templates-prx11.git /opt/DVHOST/views/templates/prx11/
+sudo git clone https://github.com/mohamadpython/ui-templates-prx11.git /opt/DVHOST/views/templates/prx11/
 sudo sed -i 's/^TEMPLATE_NAME=.*/TEMPLATE_NAME=prx11/' /opt/DVHOST/dvhost.config
 ```
 
